@@ -1,6 +1,6 @@
 document.write('<html>');
 document.write('<head>');
-document.write('	<title>'+'test title'+'</title>');
+document.write('	<title>'+title+'</title>');
 document.write('</head>');
 
 document.write('<body>');
