@@ -1,0 +1,1 @@
+document.write('<center><p>Footer</p></center>')
