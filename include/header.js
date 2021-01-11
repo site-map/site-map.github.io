@@ -1,4 +1,4 @@
-document.write('<html>');
+document.write('<html lang="en">');
 document.write('<head>');
 document.write('	<title>'+title+'</title>');
 document.write('</head>');
