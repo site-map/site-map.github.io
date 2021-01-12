@@ -1,0 +1,64 @@
+3/4 3/4 1/2 tee
+
+
+sink x 4
+
+
+washing machine
+
+shower x 3
+
+
+8 x 1/2"
+
+
+
+30a - water heater - 10/2
+20a - refregerator
+20a - microwave gfci
+20a - 2nd kitchen outlet gfci
+15a - lighting
+3x bathroom
+	20a - bathroom outlet
+	15a - bathroom lighting
+
+30a? - dryer gfci
+20a - washer gfci
+
+
+washing machine box
+shower valve + body + trim (bath 1)
+sink? (bath 1)
+toilet? (bath 1)
+faucet? (kitchen)
+4x plugs for showers (bath 2 & 3)
+1x plug for toilet (bath 3)
+2x plug for sink (bath 3)
+
+take photo of sub-panel at back unit
+BRING
+ladder
+step-stool
+multimeter (check batteries)
+laser tape measure
+batteries for drill
+drill bits
+	romex hole max size = 1 + 1/8" through center of 2x4, prefer 3/4"-1" hole. 7/8" most common size.
+
+Measure/Mark
+Where are lights + outlets on the blueprint
+Where are current water fittings + toilet/shower drains
+Where are windows + doors
+
+Photo of AC wiring, AC model #
+
+Water Heater
+	Wiring + Breaker
+		romex from breaker to heater
+			conduit from wall to heater
+	Pan + Drain
+	Pressure and Temp Relief Valve piped outside
+	Two shutoff valves
+	Two flexible hoses
+	Water Heater
+		Rich Truck/Van?
