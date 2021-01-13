@@ -16,4 +16,12 @@ details > p {
 
 table {
 	border: 1px;
+	border-collapse: collapse;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+tr:hover {background-color: #ddd;}
+
+td, th {
+  border: 1px solid #ddd;
 }
